@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nerd</string>
+    <string name="title_activity_homepage">homepage</string>
+    <string name="large_text">
+        "Welcome!\n\n"
+    </string>
+</resources>
